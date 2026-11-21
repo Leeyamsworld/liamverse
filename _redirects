@@ -1,5 +1,5 @@
-# / https://sites.google.com/view/leeyamsworldweb/ 302
-# /index.html https://sites.google.com/view/leeyamsworldweb/home 302
+/ https://sites.google.com/view/leeyamsworldweb/ 302
+/index.html https://sites.google.com/view/leeyamsworldweb/home 302
 
-/ /notices/coming 302
-/index.html /notices/coming.html 302
+# / /notices/coming 302
+# /index.html /notices/coming.html 302
